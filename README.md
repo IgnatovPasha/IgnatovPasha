@@ -1,5 +1,7 @@
-### Personal Apps
 
+[![My GitLab Profile](https://img.shields.io/badge/GitLab-Profile-%23FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/IgnatovPasha)
+
+### Personal Apps
 <table>
   <tr>
     <td>
