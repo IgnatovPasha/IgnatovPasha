@@ -15,8 +15,6 @@
              width="150" alt="Download on the App Store"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="assets/myoutlay-lite.png" width="100" style="border-radius: 20%;" alt="MyOutlay Lite Icon"/>
     </td>
@@ -41,8 +39,6 @@
              width="150" alt="Download on the App Store"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="assets/shooters-cocktails-handbook.png" width="100" style="border-radius: 20%;" alt="Shooters: Cocktails Handbook Icon"/>
     </td>
