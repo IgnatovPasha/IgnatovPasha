@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="assets/what-chord.png" width="100" style="border-radius: 20%;" alt="What Chord Icon"/>
+      <img src="assets/what-chord.png" width="100" alt="What Chord Icon"/>
     </td>
     <td align="center">
       <strong>What Chord?</strong><br/>
@@ -16,7 +16,7 @@
       </a>
     </td>
     <td>
-      <img src="assets/myoutlay-lite.png" width="100" style="border-radius: 20%;" alt="MyOutlay Lite Icon"/>
+      <img src="assets/myoutlay-lite.png" width="100" alt="MyOutlay Lite Icon"/>
     </td>
     <td align="center">
       <strong>MyOutlay Lite</strong><br/>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>
-      <img src="assets/party-spinner.png" width="100" style="border-radius: 20%;" alt="Party Spinner Icon"/>
+      <img src="assets/party-spinner.png" width="100" alt="Party Spinner Icon"/>
     </td>
     <td align="center">
       <strong>Party Spinner</strong><br/>
@@ -40,7 +40,7 @@
       </a>
     </td>
     <td>
-      <img src="assets/shooters-cocktails-handbook.png" width="100" style="border-radius: 20%;" alt="Shooters: Cocktails Handbook Icon"/>
+      <img src="assets/shooters-cocktails-handbook.png" width="100" alt="Shooters: Cocktails Handbook Icon"/>
     </td>
     <td align="center">
       <strong>Shooters: Cocktails Handbook</strong><br/>
@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td>
-      <img src="assets/vitalmetric.png" width="100" style="border-radius: 20%;" alt="VitalMetric Icon"/>
+      <img src="assets/vitalmetric.png" width="100" alt="VitalMetric Icon"/>
     </td>
     <td align="center">
       <strong>VitalMetric</strong><br/>
