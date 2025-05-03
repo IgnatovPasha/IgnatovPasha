@@ -50,7 +50,9 @@
              width="150" alt="Download on the App Store"/>
       </a>
     </td>
-     <td>
+  </tr>
+  <tr>
+    <td>
       <img src="assets/vitalmetric.png" width="100" style="border-radius: 20%;" alt="VitalMetric Icon"/>
     </td>
     <td align="center">
